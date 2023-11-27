@@ -77,9 +77,9 @@ RTL realization:
 
 ![image](https://github.com/Nandakesore0210/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365088/ba448368-d78e-4fff-a4e9-f91bb4e16e26)
 
-Result:
+Output:
 
 ![image](https://github.com/Nandakesore0210/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149365088/d1f4c02f-6ad3-4144-831f-f57865d80198)
 
-Output:
+Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
